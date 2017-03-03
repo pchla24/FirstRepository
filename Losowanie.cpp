@@ -11,7 +11,7 @@ int main()
 	int wynik = (std::rand() % 1000 ) + 1 ;                   //losowanie
 	
 	int liczba;                                               
-	int i = 0;                                                //Liczba "strza³ów"
+	int i = 0;                                                //Liczba "strzaÂ³Ã³w"
 	
 	do
 	{
@@ -35,7 +35,7 @@ int main()
 	} while(liczba != wynik);
 	
 	
-	 return 0;
+	 return 0; 
 		}
 	
 	
